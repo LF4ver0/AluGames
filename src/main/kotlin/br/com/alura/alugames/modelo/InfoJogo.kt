@@ -1,4 +1,4 @@
-package br.com.alura.alugames
+package br.com.alura.alugames.br.com.alura.alugames.modelo
 
 class InfoJogo(val info: InfoApiShark) {
 
